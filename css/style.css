@@ -5,14 +5,14 @@
 */
 
 h1 {
-  background-color: rgb(80, 110, 107);
-  color: cornsilk;
+  background-color: rgb(114, 156, 151);
+  color: rgb(255, 248, 230);
   padding: 10px;
 }
 
 .intro {
-  color: darkslategray;
-  background-color: rgb(224, 224, 224);
+  color: rgb(114, 156, 151);
+  background-color: mintcream;
 }
 
 p {
@@ -20,9 +20,9 @@ p {
 }
 
 body {
-  background-color: cornsilk;
+  background-color: rgb(255, 248, 230);
 }
 
 img {
-  border: 10px solid rgb(80, 110, 107);
+  border: 10px solid rgb(114, 156, 151);
 }
