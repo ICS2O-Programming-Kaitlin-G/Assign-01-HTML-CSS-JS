@@ -1,5 +1,5 @@
 /* Created by: Katie
-* Created on: February 2022
+* Created on: March 2022
 * This CSS file defines the style for index.html
 * ICS2O-Assign-01-HTML-CSS-JSS
 */
@@ -10,13 +10,14 @@ h1 {
   padding: 10px;
 }
 
-.intro {
+p {
   color: rgb(114, 156, 151);
   background-color: mintcream;
 }
 
-p {
-  color: darkslategray;
+h3 {
+  background-color: rgb(138, 184, 178);
+  color: rgb(255, 248, 230);
 }
 
 body {
