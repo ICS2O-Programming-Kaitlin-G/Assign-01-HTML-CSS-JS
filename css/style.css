@@ -5,13 +5,13 @@
 */
 
 h1 {
-  background-color: rgb(114, 156, 151);
+  background-color: rgb(98, 133, 128);
   color: rgb(255, 248, 230);
   padding: 10px;
 }
 
 p {
-  color: rgb(114, 156, 151);
+  color: rgb(98, 133, 128);
   background-color: mintcream;
 }
 
@@ -25,5 +25,5 @@ body {
 }
 
 img {
-  border: 10px solid rgb(114, 156, 151);
+  border: 10px solid rgb(98, 133, 128);
 }
