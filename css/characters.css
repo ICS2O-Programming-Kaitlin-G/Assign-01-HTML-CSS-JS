@@ -11,5 +11,19 @@ h1 {
 
 p {
   color: rgb(103, 130, 96);
-  background-color: lightgreen;
+  background-color: rgb(188, 227, 177);
+}
+
+h4 {
+  background-color: rgb(87, 110, 81);
+  color: rgb(255, 248, 230);
+}
+
+h3{
+  background-color: rgb(87, 110, 81);
+  color: rgb(255, 248, 230);
+}
+
+img {
+  border: solid 10px rgb(87, 110, 81);
 }
