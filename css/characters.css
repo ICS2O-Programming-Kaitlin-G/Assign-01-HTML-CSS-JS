@@ -1,0 +1,15 @@
+/* Created by: Katie
+* Created on: March 2022
+* This CSS file defines the style for stardewcharacters.html
+* ICS2O-Assign-01-HTML-CSS-JSS
+*/
+
+h1 {
+  background-color: rgb(87, 110, 81);
+  color: rgb(255, 248, 230);
+}
+
+p {
+  color: rgb(103, 130, 96);
+  background-color: lightgreen;
+}
